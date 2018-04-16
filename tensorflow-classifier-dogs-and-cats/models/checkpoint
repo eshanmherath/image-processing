@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Eshan\\Documents\\GitHub\\image-processing\\tensorflow-classifier-dogs-and-cats\\models\\dogs-cats-model"
+all_model_checkpoint_paths: "C:\\Users\\Eshan\\Documents\\GitHub\\image-processing\\tensorflow-classifier-dogs-and-cats\\models\\dogs-cats-model"
